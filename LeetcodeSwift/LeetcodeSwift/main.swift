@@ -30,7 +30,7 @@ import Foundation
 
 class Solution {
     func maxDepth(_ root: TreeNode?) -> Int {
-        // or: 
+        // or:
         // guard let root = root else {
         //     return 0
         // }
