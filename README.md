@@ -4,7 +4,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 #### Problems are categorized with branches by themes: 
 * **Trees**:  *tree, binary tree, binary search tree, shortest path, minimum spanning tree*
 * **Lists**: *graph, linked list, doubly-linked list, depth-first search, breadth-first search*
-* **Others**: *recursion, queue, hash-table, stack*
+* **Others**: *recursion, queue, hash-table, stack, arrays*
 
 #### By complexity:
 - **easy**
@@ -22,3 +22,6 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 
 #### *Lists*
 1. [Merge Two Sorted List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/linked_list/easy/merge_two_sorted_list)
+
+#### *Arrays*
+1. [Pascal's Triangle](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Pascals_Triangle)
