@@ -25,3 +25,4 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 
 #### *Arrays*
 1. [Pascal's Triangle](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Pascals_Triangle)
+2. [Single Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Single_Number)
