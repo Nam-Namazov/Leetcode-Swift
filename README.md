@@ -18,6 +18,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 2. [Maximum Depth of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/MaximumDepth)
 3. [Root Equals Sum of Children](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/RootEqualsSumofChildren)
 4. [Convert Sorted Array To Binary Search Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Convert_Sorted_Array_to_Binary_Search_Tree)
+5. [Symmetric Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Symmetric_Tree)
 
 
 #### *Lists*
@@ -28,3 +29,4 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 2. [Single Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Single_Number)
 3. [Contains Dublicate](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Contains_Dublicate)
 4. [Missing Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Missing_Number)
+5. [Merge Sorted Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Merge_Sorted_Array)
