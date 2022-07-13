@@ -30,3 +30,4 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 3. [Contains Dublicate](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Contains_Dublicate)
 4. [Missing Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Missing_Number)
 5. [Merge Sorted Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Merge_Sorted_Array)
+6. [Best Time to Buy and Sell Stock](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Best_Time_To_Buy_And_Sell_Stock)
