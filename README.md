@@ -23,6 +23,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 
 #### *Lists*
 1. [Merge Two Sorted List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/linked_list/easy/merge_two_sorted_list)
+2. [Delete Node in a Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/linked_list/easy/delete_node_in_a_linked_list)
 
 #### *Arrays*
 1. [Pascal's Triangle](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Pascals_Triangle)
