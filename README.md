@@ -19,6 +19,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 3. [Root Equals Sum of Children](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/RootEqualsSumofChildren)
 4. [Convert Sorted Array To Binary Search Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Convert_Sorted_Array_to_Binary_Search_Tree)
 5. [Symmetric Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Symmetric_Tree)
+6. [Diameter of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Diameter_of_binary_tree)
 
 
 #### *Lists*
