@@ -4,7 +4,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 #### Problems are categorized with branches by themes: 
 * **Trees**:  *tree, binary tree, binary search tree, shortest path, minimum spanning tree*
 * **Lists**: *graph, linked list, doubly-linked list, depth-first search, breadth-first search*
-* **Others**: *recursion, queue, hash-table, stack, arrays*
+* **Others**: *recursion, queue, hash-table, stack, arrays, matrix*
 
 #### By complexity:
 - **easy**
