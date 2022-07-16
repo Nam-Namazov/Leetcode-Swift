@@ -39,6 +39,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Fizz Buzz](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Fizz_Buzz)
 - [Backspace String Compare](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Backspace_String_Compare)
 - [Valid Anagram](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
+- [Plus One](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
 
 ### Medium 
-- [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/medium/Game_of_life)
+- [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/plus-one)
