@@ -47,6 +47,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 6. [Valid Parantheses](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Parantheses)
 7. [Fizz Buzz](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Fizz_Buzz)
 8. [Backspace String Compare](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Backspace_String_Compare)
+9. [Valid Anagram](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
 
 ### Medium 
 #### *Others*
