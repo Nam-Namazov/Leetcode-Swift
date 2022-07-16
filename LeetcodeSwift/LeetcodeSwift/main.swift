@@ -1,5 +1,5 @@
 import Foundation
-// MARK: - Game of Life
+// MARK: - Game of Life 
 
 class Solution {
     func gameOfLife(_ board: inout [[Int]]) {
