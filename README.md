@@ -41,6 +41,6 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 1. [First Unique Character in a String](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/First_unique_character_in_string)
 2. [Happy Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Happy_Number)
 
-### Easy 
+### Medium 
 #### *Others*
 1. [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/medium/Game_of_life)
