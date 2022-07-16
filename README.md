@@ -44,6 +44,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 3. [Palindrome Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Palindrome_Number)
 4. [Roman to integer](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/roman_to_integer)
 5. [Longest Common Prefix](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/longest_common_prefix)
+6. [Valid Parantheses](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Parantheses)
 
 ### Medium 
 #### *Others*
