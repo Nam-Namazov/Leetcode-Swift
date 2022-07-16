@@ -35,6 +35,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 6. [Best Time to Buy and Sell Stock](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Best_Time_To_Buy_And_Sell_Stock)
 7. [Majority Element](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Majority_Element)
 8. [Move Zeroes](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Move_Zeroes)
+9. [Two Sum](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Two_Sum)
 
 
 #### *Others*
