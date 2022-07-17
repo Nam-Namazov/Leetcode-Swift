@@ -40,6 +40,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Backspace String Compare](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Backspace_String_Compare)
 - [Valid Anagram](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
 - [Plus One](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
+- [Reverse Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/reverse_linked_list) need recursion solution too
 
 ### Medium 
 - [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/plus-one)
