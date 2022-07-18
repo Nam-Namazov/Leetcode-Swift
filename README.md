@@ -41,6 +41,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Valid Anagram](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
 - [Plus One](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
 - [Reverse Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/reverse_linked_list) need recursion solution too
+- [Intersection of Two Arrays 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Intersaction_Of_Two_Arrays_2)
 
 ### Medium 
 - [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/plus-one)
