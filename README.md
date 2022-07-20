@@ -43,6 +43,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Reverse Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/reverse_linked_list) need recursion solution too
 - [Intersection of Two Arrays 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Intersaction_Of_Two_Arrays_2)
 - [Sort Array By Parity 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/sortyArrayByParity2)
+- [Isomorphic Strings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Isomorphic_Strings)
 
 ### Medium 
 - [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/plus-one)
