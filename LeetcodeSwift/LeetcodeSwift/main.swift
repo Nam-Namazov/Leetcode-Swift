@@ -18,23 +18,44 @@ class Solution {
 }
 
 
- class Solution2 {
-     func isIsomorphic(_ s: String, _ t: String) -> Bool {
-         var hashTable: [Character: Character] = [:]
-         let arrayS = Array(s)
-         let arrayT = Array(t)
+class Solution2 {
+    func isIsomorphic(_ s: String, _ t: String) -> Bool {
+        var hashTable: [Character: Character] = [:]
+        let arrayS = Array(s)
+        let arrayT = Array(t)
         
-         for i in 0..<arrayS.count {
-             if let dict = hashTable[arrayS[i]] {
-                 if dict != arrayT[i] {
-                     return false
-                 }
-             } else if hashTable.values.contains(arrayT[i]) {
-                 return false
-             } else {
-                 hashTable[arrayS[i]] = arrayT[i]
-             }
-         }
-         return true
-     }
- }
+        for i in 0..<arrayS.count {
+            if let dict = hashTable[arrayS[i]] {
+                if dict != arrayT[i] {
+                    return false
+                }
+            } else if hashTable.values.contains(arrayT[i]) {
+                return false
+            } else {
+                hashTable[arrayS[i]] = arrayT[i]
+            }
+        }
+        return true
+    }
+}
+
+class Solution3 {
+    func isIsomorphic(_ s: String, _ t: String) -> Bool {
+        var hashTable: [Character: Character] = [:]
+        let arrayS = Array(s)
+        let arrayT = Array(t)
+        
+        for i in 0..<arrayS.count {
+            if !hashTable.keys.contains(arrayS[i]) {
+                if !hashTable.values.contains(arrayT[i]) {
+                    hashTable[arrayS[i]] = arrayT[i]
+                } else {
+                    return false
+                }
+            } else if hashTable[arrayS[i]] != arrayT[i] {
+                return false
+            }
+        }
+        return true
+    }
+}
