@@ -44,6 +44,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Intersection of Two Arrays 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Intersaction_Of_Two_Arrays_2)
 - [Sort Array By Parity 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/sortyArrayByParity2)
 - [Isomorphic Strings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Isomorphic_Strings)
+- [Running Sum of 1d Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/RunningSumof1dArray)
 
 ### Medium 
 - [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/plus-one)
