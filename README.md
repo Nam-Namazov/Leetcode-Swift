@@ -46,6 +46,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Isomorphic Strings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Isomorphic_Strings)
 - [Running Sum of 1d Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/RunningSumof1dArray)
 - [Find Pivot Index](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/FindPivotIndex)
+- [is Subsequence](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Is_Subsequence)
 
 ### Medium 
 - [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/plus-one)
