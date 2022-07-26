@@ -16,10 +16,10 @@ public class ListNode {
 // head = [1, 2, 3, 4, 5, 6] -> the middle node = 4 -> output: [4, 5, 6]
 class Solution {
     func middleNode(_ head: ListNode?) -> ListNode? {
-        var slow = head
-        var fast = head
+        var slow: ListNode? = head
+        var fast: ListNode? = head
         
-        while fast != nil && fast?.next != nil {
+        while fast?.next != nil {
             slow = slow?.next
             fast = fast?.next?.next
         }
