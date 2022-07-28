@@ -28,6 +28,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Intersection of Two Arrays 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Intersaction_Of_Two_Arrays_2)
 - [Isomorphic Strings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Isomorphic_Strings)
 - [Longest Common Prefix](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/longest_common_prefix)
+- [Longest Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Longest_Palindrome)
 - [Linked List Cycle](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Linked_List_Cycle)
 - [Linked List Cycle 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Linked_List_Cycle_2)
 - [Maximum Depth of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/MaximumDepth)
