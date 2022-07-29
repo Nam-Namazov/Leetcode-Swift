@@ -38,6 +38,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Missing Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Missing_Number)
 - [Middle of the Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Middle_of_the_Linked_List)
 - [Move Zeroes](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Move_Zeroes)
+- [N-ary Tree Preorder Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/N-ary_Tree_Preorder_Traversal)
 - [Pascal's Triangle](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Pascals_Triangle)
 - [Palindrome Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Palindrome_Number)
 - [Plus One](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
