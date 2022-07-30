@@ -14,6 +14,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 ## Problems
 ### Easy 
 - [Binary Tree Inorder Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Binary-Tree-Inorder-Traversal) 
+- [Binary Search](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Binary_Search) 
 - [Best Time to Buy and Sell Stock](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Best_Time_To_Buy_And_Sell_Stock)
 - [Backspace String Compare](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Backspace_String_Compare)
 - [Convert Sorted Array To Binary Search Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Convert_Sorted_Array_to_Binary_Search_Tree)
