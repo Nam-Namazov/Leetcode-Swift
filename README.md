@@ -22,6 +22,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Contains Dublicate](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Contains_Dublicate)
 - [Diameter of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Diameter_of_binary_tree)
 - [Delete Node in a Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/linked_list/easy/delete_node_in_a_linked_list)
+- [Remove Dublicates From Sorted Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/RemoveDublicatesFromSortedArray)
 - [First Bad Version](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/First_Bad_Version)
 - [First Unique Character in a String](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/First_unique_character_in_string)
 - [Find Pivot Index](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/FindPivotIndex)
