@@ -32,6 +32,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Isomorphic Strings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Isomorphic_Strings)
 - [Longest Common Prefix](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/longest_common_prefix)
 - [Longest Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Longest_Palindrome)
+- [Linked List Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/PalindromeLinkedList)
 - [Linked List Cycle](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Linked_List_Cycle)
 - [Linked List Cycle 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Linked_List_Cycle_2)
 - [Maximum Depth of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/MaximumDepth)
