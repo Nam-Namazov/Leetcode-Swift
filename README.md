@@ -27,6 +27,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Find Pivot Index](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/FindPivotIndex)
 - [Fizz Buzz](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Fizz_Buzz)
 - [Happy Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Happy_Number)
+- [HowManyNumbersAreSmallerThanTheCurrentNumber](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/HowManyNumbersAreSmallerThanTheCurrentNumber)
 - [Is Subsequence](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Is_Subsequence)
 - [Intersection of Two Arrays 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Intersaction_Of_Two_Arrays_2)
 - [Isomorphic Strings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Isomorphic_Strings)
