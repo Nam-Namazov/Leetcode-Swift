@@ -6,17 +6,6 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [LinkedIn](https://www.linkedin.com/in/namik-namazov-a38b36245/)
 - [Telegram](https://t.me/nam_namazov) 
 
-## Branches
-#### Problems are categorized with branches by themes: 
-* **Trees**:  *tree, binary tree, binary search tree, shortest path, minimum spanning tree*
-* **Lists**: *graph, linked list, doubly-linked list, depth-first search, breadth-first search*
-* **Others**: *recursion, queue, hash-table, stack, arrays, matrix*
-
-#### By complexity:
-- **easy**
-- **medium**
-- **hard**
-
 ## Problems
 ### Easy 
 - [Binary Tree Inorder Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Binary-Tree-Inorder-Traversal) 
