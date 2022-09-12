@@ -1,5 +1,9 @@
 # Leetcode-Swift
 Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms and for some reason I will sharing with solved problems here.
+
+## Contacts 
+- [My Leetcode](https://leetcode.com/Nam-Namazov/)
+
 ## Branches
 #### Problems are categorized with branches by themes: 
 * **Trees**:  *tree, binary tree, binary search tree, shortest path, minimum spanning tree*
