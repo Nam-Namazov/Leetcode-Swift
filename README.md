@@ -4,6 +4,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 ## Contacts 
 - [My Leetcode](https://leetcode.com/Nam-Namazov/)
 - [LinkedIn](https://www.linkedin.com/in/namik-namazov-a38b36245/)
+- [Telegram](https://t.me/nam_namazov) 
 
 ## Branches
 #### Problems are categorized with branches by themes: 
