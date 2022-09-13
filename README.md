@@ -26,6 +26,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Is Subsequence](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Is_Subsequence)
 - [Intersection of Two Arrays 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Intersaction_Of_Two_Arrays_2)
 - [Isomorphic Strings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Isomorphic_Strings)
+- [Jewels and Stones](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/JewelsandStones)
 - [Longest Common Prefix](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/longest_common_prefix)
 - [Longest Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Longest_Palindrome)
 - [Linked List Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/PalindromeLinkedList)
