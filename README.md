@@ -29,6 +29,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Jewels and Stones](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/JewelsandStones)
 - [Longest Common Prefix](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/longest_common_prefix)
 - [Longest Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Longest_Palindrome)
+- [Length of Last Word](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/LengthofLastWord)
 - [Linked List Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/PalindromeLinkedList)
 - [Linked List Cycle](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Linked_List_Cycle)
 - [Linked List Cycle 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/Linked_List_Cycle_2)
