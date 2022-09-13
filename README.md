@@ -1,6 +1,8 @@
 # Leetcode-Swift
 Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms and for some reasons I will sharing with solved problems here.
 
+[![Nam-Namazov's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nam-Namazov&theme=dark)](https://github.com/Nam-Namazov/leetcode-stats)
+
 ## Contacts 
 - [My Leetcode](https://leetcode.com/Nam-Namazov/)
 - [LinkedIn](https://www.linkedin.com/in/namik-namazov-a38b36245/)
