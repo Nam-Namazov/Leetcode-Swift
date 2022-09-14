@@ -16,7 +16,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Best Time to Buy and Sell Stock](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Best_Time_To_Buy_And_Sell_Stock)
 - [Backspace String Compare](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Backspace_String_Compare)
 - [Convert Sorted Array To Binary Search Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Convert_Sorted_Array_to_Binary_Search_Tree)
-- [CountNumber Of Pairs With Absolute Difference K](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/CountNumberOfPairsWithAbsoluteDifferenceK)
+- [Count Number Of Pairs With Absolute Difference K](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/CountNumberOfPairsWithAbsoluteDifferenceK)
 - [Contains Dublicate](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Contains_Dublicate)
 - [Diameter of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Diameter_of_binary_tree)
 - [Delete Node in a Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/linked_list/easy/delete_node_in_a_linked_list)
