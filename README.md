@@ -18,6 +18,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Convert Sorted Array To Binary Search Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Convert_Sorted_Array_to_Binary_Search_Tree)
 - [Count Number Of Pairs With Absolute Difference K](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/CountNumberOfPairsWithAbsoluteDifferenceK)
 - [Contains Dublicate](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Contains_Dublicate)
+- [Check If The Sentence Is Pangram](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/CheckIfTheSentenceIsPangram)
 - [Diameter of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Diameter_of_binary_tree)
 - [Delete Node in a Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/tree/linked_list/easy/delete_node_in_a_linked_list)
 - [First Bad Version](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/First_Bad_Version)
