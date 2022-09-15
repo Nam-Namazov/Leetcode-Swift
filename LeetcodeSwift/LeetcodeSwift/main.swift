@@ -4,12 +4,8 @@ import Foundation
 
 class Solution {
     func checkIfPangram(_ sentence: String) -> Bool {
-        var alphabetArray: [Character] = []
+        let alphabetArray = Array("abcdefghijklmnopqrstuvwxyz")
         var counter = 0
-        
-        for alphabet in "abcdefghijklmnopqrstuvwxyz" {
-            alphabetArray.append(alphabet)
-        }
         
         for alphabet in alphabetArray {
             if sentence.contains(alphabet) {
@@ -34,5 +30,11 @@ class Solution2 {
             }
         }
         return hashMap.isEmpty
+    }
+}
+
+class Solution3 {
+    func checkIfPangram(_ sentence: String) -> Bool {
+        return Set(sentence).count == 26
     }
 }
