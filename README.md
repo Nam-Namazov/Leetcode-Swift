@@ -64,6 +64,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 
 ### Medium 
 - [Find All Duplicates In An Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/FindAllDuplicatesInAnArray)
+- [Find All Lonely Numbers In The Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Find-all-lonely-numbers-in-the-array)
 - [Game of Life](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/plus-one)
 - [Palindromic Substrings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Palindromic_Substrings)
 - [Binary Tree Level Order Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Binary_Tree_Level_Order_Traversal)
