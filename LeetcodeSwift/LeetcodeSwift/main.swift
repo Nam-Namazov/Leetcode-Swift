@@ -1,35 +1,39 @@
 import Foundation
 // MARK: - contains dublicate
-// Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct.
+// all are O(n), O(n)
 
-func containsDuplicate(_ nums: [Int]) -> Bool {
-    var hashTable: [Int: Bool] = [:]
-    
-    for i in 0..<nums.count {
-        if hashTable[nums[i]] != nil {
-            return true
-        } else {
-            hashTable[nums[i]] = true
+class Solution {
+    func containsDuplicate(_ nums: [Int]) -> Bool {
+        var hashMap: [Int: Int] = [:]
+        
+        for i in 0..<nums.count {
+            if hashMap[nums[i]] != nil {
+                return true
+            } else {
+                hashMap[nums[i]] = 1
+            }
         }
+        return false
     }
-    return false
 }
 
-print(containsDuplicate([4, 3, 2, 1, 1]))
-
-// or
-
-func containsDuplicate2(_ nums: [Int]) -> Bool {
-    var hashTable: [Int: Bool] = [:]
-    
-    for i in nums {
-        if hashTable[i] == true {
-            return true
-        } else {
-            hashTable[i] = true
+class Solution2 {
+    func containsDuplicate(_ nums: [Int]) -> Bool {
+        var hashSet = Set<Int>()
+        
+        for i in 0..<nums.count {
+            if hashSet.contains(nums[i]) {
+                return true
+            } else {
+                hashSet.insert(nums[i])
+            }
         }
+        return false
     }
-    return false
 }
 
-print(containsDuplicate2([1, 2, 3, 4, 1]))
+class Solution3 {
+    func containsDuplicate(_ nums: [Int]) -> Bool {
+        return Set(nums).count != nums.count
+    }
+}
