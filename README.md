@@ -70,3 +70,4 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Longest Substring Without Repeating Characters](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/LongestSubstringWithoutRepeatingCharacters)
 - [Palindromic Substrings](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Palindromic_Substrings)
 - [Validate Binary Search Treel](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Validate_Binary_Search_Tree)
+- [Group Anagrams](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/group-anagrams)
