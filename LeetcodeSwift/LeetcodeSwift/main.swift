@@ -12,9 +12,9 @@ class Solution {
                 
                 if currentCharacter == "." { continue }
                 
-                let column = "\(currentCharacter) row \(j)"
-                let row = "\(currentCharacter) column \(i)"
-                let boxes = "\(currentCharacter) boxes \(i / 3) \(j / 3)"
+                let column = "\(currentCharacter) with row: \(j)"
+                let row = "\(currentCharacter) with column: \(i)"
+                let boxes = "\(currentCharacter) box with row: \(i / 3) with column: \(j / 3)"
                 
                 if !hashSet.contains(row) {
                     hashSet.insert(row)
