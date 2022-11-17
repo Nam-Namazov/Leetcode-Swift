@@ -73,3 +73,4 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Group Anagrams](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/group-anagrams)
 - [Top K Frequent Elements](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/top-k-frequent-elements)
 - [Product of Array Except Self](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/product-of-array-except-self)
+- [Valid Sudoku](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/valid-sudoku)
