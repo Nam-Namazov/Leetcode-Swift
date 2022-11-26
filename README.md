@@ -77,3 +77,4 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Valid Sudoku](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/valid-sudoku)
 - [Longest Consecutive Sequence](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/longest-consecutive-sequence)
 - [Two Sum II Input Array Is Sorted](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/two-sum-II-input-array-is-sorted)
+- [3Sum](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/3Sum)
