@@ -61,6 +61,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Two Sum](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Two_Sum)
 - [Valid Parantheses](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Parantheses)
 - [Valid Anagram](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
+- [Valid Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/valid-palindrome)
 
 ### Medium 
 - [Binary Tree Level Order Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Binary_Tree_Level_Order_Traversal)
