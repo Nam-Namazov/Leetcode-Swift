@@ -76,3 +76,4 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Product of Array Except Self](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/product-of-array-except-self)
 - [Valid Sudoku](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/valid-sudoku)
 - [Longest Consecutive Sequence](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/longest-consecutive-sequence)
+- [Two Sum II Input Array Is Sorted](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/two-sum-II-input-array-is-sorted)
