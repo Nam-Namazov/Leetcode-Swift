@@ -79,3 +79,6 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Two Sum II Input Array Is Sorted](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/two-sum-II-input-array-is-sorted)
 - [3Sum](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/3Sum)
 - [Container With Most Water](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/container-with-most-water)
+
+### Hard 
+- [Trapping Rain Water](https://github.com/Nam-Namazov/Leetcode-Swift/tree/hard/trapping-rain-water)
