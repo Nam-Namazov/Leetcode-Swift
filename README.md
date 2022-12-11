@@ -63,6 +63,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Valid Anagram](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Anagram)
 - [Valid Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/valid-palindrome)
 - [Minimum Difference Between Highest and Lowest of K Scores](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/minimum-difference-between-highest-and-lowest-of-k-scores)
+- [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/minimum-recolors-to-get-K-consecutive-black-blocks)
 
 ### Medium 
 - [Binary Tree Level Order Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Binary_Tree_Level_Order_Traversal)
