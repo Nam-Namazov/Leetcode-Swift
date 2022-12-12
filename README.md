@@ -57,6 +57,7 @@ Hi, my name is Namik, I'm beginner in iOS Development. I'm learning algorithms a
 - [Running Sum of 1d Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/RunningSumof1dArray)
 - [Single Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Single_Number)
 - [Symmetric Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/trees/easy/Symmetric_Tree)
+- [Squares of a Sorted Array](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/squares-of-a-sorted-array)
 - [Sort Array By Parity 2](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/sortyArrayByParity2)
 - [Two Sum](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Arrays/easy/Two_Sum)
 - [Valid Parantheses](https://github.com/Nam-Namazov/Leetcode-Swift/tree/Others/easy/Valid_Parantheses)
