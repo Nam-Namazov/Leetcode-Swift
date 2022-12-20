@@ -85,6 +85,7 @@ Hi, my name is Namik, I'm iOS Developer. I'm learning algorithms and for some re
 - [Container With Most Water](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/container-with-most-water)
 - [Substrings-of-size-three-with-distinct-characters](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/substrings-of-size-three-with-distinct-characters)
 - [Jump Game](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/jump-game)
+- [Push Dominoes](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/push-dominoes)
 
 ### Hard 
 - [Trapping Rain Water](https://github.com/Nam-Namazov/Leetcode-Swift/tree/hard/trapping-rain-water)
