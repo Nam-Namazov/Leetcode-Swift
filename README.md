@@ -1,5 +1,4 @@
 # Leetcode-Swift
-Leetcode solutions with swift
 
 [![Nam-Namazov's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nam-Namazov&theme=dark)](https://github.com/Nam-Namazov/leetcode-stats)
 
