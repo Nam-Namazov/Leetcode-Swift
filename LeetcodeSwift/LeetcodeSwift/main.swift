@@ -21,6 +21,6 @@ class Solution {
             }
         }
         
-        return Set(hashMap.keys).count == Set(hashMap.values).count
+        return hashMap.keys.count == Set(hashMap.values).count
     }
 }
