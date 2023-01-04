@@ -67,6 +67,8 @@
 - [Minimum Recolors to Get K Consecutive Black Blocks](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/minimum-recolors-to-get-K-consecutive-black-blocks)
 - [Find the K-Beauty of a Number](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/find-the-k-beauty-of-a-number)
 - [Invert Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/invert-binary-tree)
+- [Word Pattern](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/word-pattern/LeetcodeSwift/LeetcodeSwift/main.swift)
+
 
 ### Medium 
 - [Binary Tree Level Order Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/Binary_Tree_Level_Order_Traversal)
