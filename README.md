@@ -3,7 +3,7 @@
 [![Nam-Namazov's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=Nam-Namazov&theme=dark)](https://github.com/Nam-Namazov/leetcode-stats)
 
 ## Contacts 
-- [My Leetcode](https://leetcode.com/Nam-Namazov/)
+- [Leetcode](https://leetcode.com/Nam-Namazov/)
 - [LinkedIn](https://www.linkedin.com/in/namik-namazov/)
 - [Telegram](https://t.me/nam_namazov) 
 
