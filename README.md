@@ -87,6 +87,8 @@
 - [Substrings-of-size-three-with-distinct-characters](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/substrings-of-size-three-with-distinct-characters)
 - [Jump Game](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/jump-game)
 - [Push Dominoes](https://github.com/Nam-Namazov/Leetcode-Swift/tree/medium/push-dominoes)
+- [Minimum Rounds to Complete All Tasks](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/minimum-rounds-to-complete-all-tasks/LeetcodeSwift/LeetcodeSwift/main.swift)
+
 
 ### Hard 
 - [Trapping Rain Water](https://github.com/Nam-Namazov/Leetcode-Swift/tree/hard/trapping-rain-water)
