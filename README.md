@@ -90,6 +90,7 @@
 - [Jump Game](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/jump-game/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Push Dominoes](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/push-dominoes/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Minimum Rounds to Complete All Tasks](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/minimum-rounds-to-complete-all-tasks/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Minimum Number of Arrows to Burst Balloons](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/minimum-number-of-arrows-to-burst-balloons/LeetcodeSwift/LeetcodeSwift/main.swift)
 
 
 ### Hard 
