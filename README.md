@@ -91,6 +91,7 @@
 - [Push Dominoes](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/push-dominoes/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Minimum Rounds to Complete All Tasks](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/minimum-rounds-to-complete-all-tasks/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Minimum Number of Arrows to Burst Balloons](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/minimum-number-of-arrows-to-burst-balloons/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Maximum Ice Cream Bars](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/maximum-ice-cream-bars/LeetcodeSwift/LeetcodeSwift/main.swift)
 
 
 ### Hard 
