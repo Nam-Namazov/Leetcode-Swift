@@ -93,6 +93,7 @@
 - [Minimum Number of Arrows to Burst Balloons](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/minimum-number-of-arrows-to-burst-balloons/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Maximum Ice Cream Bars](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/maximum-ice-cream-bars/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Gas Station](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/gas-station/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Zigzag Conversion](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/zigzag-conversion/LeetcodeSwift/LeetcodeSwift/main.swift)
 
 
 ### Hard 
