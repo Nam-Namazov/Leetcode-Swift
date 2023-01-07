@@ -2,7 +2,7 @@ import Foundation
 
 class Solution {
     func convert(_ s: String, _ numRows: Int) -> String {
-        if s.count == 1 && numRows == 1 { return s }
+        if s.count == 1 || numRows == 1 { return s }
         let s = Array(s)
         var result = String()
         let charsInSection = 2 * (numRows - 1)
@@ -28,5 +28,3 @@ class Solution {
     }
 }
 
-let solution = Solution()
-print(solution.convert("PAYPALISHIRING", 4))
