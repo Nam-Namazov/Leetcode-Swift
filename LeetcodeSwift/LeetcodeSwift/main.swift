@@ -1,5 +1,8 @@
 import Foundation
 
+// O(n^2)
+// O(n)
+
 // MARK: - With atan2 solution
 class Solution {
     func maxPoints(_ points: [[Int]]) -> Int {
