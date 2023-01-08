@@ -98,3 +98,4 @@
 
 ### Hard 
 - [Trapping Rain Water](https://github.com/Nam-Namazov/Leetcode-Swift/blob/hard/trapping-rain-water/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Max Points on a Line](https://github.com/Nam-Namazov/Leetcode-Swift/blob/hard/max-points-on-a-line/LeetcodeSwift/LeetcodeSwift/main.swift)
