@@ -69,6 +69,7 @@
 - [Invert Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/invert-binary-tree/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Word Pattern](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/word-pattern/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Binary Tree Preorder Traversal](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/binary-tree-preorder-traversal/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Same Tree](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/same-tree/LeetcodeSwift/LeetcodeSwift/main.swift)
 
 
 ### Medium 
