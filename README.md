@@ -96,6 +96,7 @@
 - [Maximum Ice Cream Bars](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/maximum-ice-cream-bars/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Gas Station](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/gas-station/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Zigzag Conversion](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/zigzag-conversion/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Minimum Time to Collect All Apples in a Tree](https://github.com/Nam-Namazov/Leetcode-Swift/blob/medium/minimum-time-to-collect-all-apples-in-a-tree/LeetcodeSwift/LeetcodeSwift/main.swift)
 
 
 ### Hard 
