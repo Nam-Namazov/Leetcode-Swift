@@ -15,11 +15,20 @@ final class LeetcodeSwiftTests: XCTestCase {
         super.tearDown()
     }
     
-    func testSolution_() {
+    func testSolution_dublicateZeroes() {
         // given
+        var arr1 = [1, 0, 2, 3, 0, 4, 5, 0]
+        var arr2 = [1, 2, 3]
         
         // when
+        sut.duplicateZeros(&arr1)
+        sut.duplicateZeros(&arr2)
         
         // then
+        let expected1 = [1, 0, 0, 2, 3, 0, 0, 4]
+        let expected2 = [1, 2, 3]
+        
+        XCTAssertEqual(arr1, expected1)
+        XCTAssertEqual(arr2, expected2)
     }
 }
