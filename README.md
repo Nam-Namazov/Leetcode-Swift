@@ -74,6 +74,7 @@
 - [Valid Parentheses](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/valid-parentheses/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Baseball Game](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/baseball-game/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Find All Numbers Disappeared in an Array](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/find-all-numbers-disappeared-in-an-array/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Shuffle the array](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/shuffle-the-array/LeetcodeSwift/LeetcodeSwift/Solution.swift)
 
 
 ### Medium 
