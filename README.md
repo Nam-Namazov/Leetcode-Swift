@@ -59,7 +59,7 @@
 - [Symmetric Tree](https://github.com/Nam-Namazov/Leetcode-Swift/blob/trees/easy/Symmetric_Tree/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Squares of a Sorted Array](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/squares-of-a-sorted-array/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Sort Array By Parity 2](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/sortyArrayByParity2/LeetcodeSwift/LeetcodeSwift/main.swift)
-- [Two Sum](https://github.com/Nam-Namazov/Leetcode-Swift/blob/Arrays/easy/Two_Sum/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Two Sum](https://github.com/Nam-Namazov/Leetcode-Swift/blob/Arrays/easy/Two_Sum/LeetcodeSwift/LeetcodeSwift/Solution.swift)
 - [Valid Parantheses](https://github.com/Nam-Namazov/Leetcode-Swift/blob/Others/easy/Valid_Parantheses/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Valid Anagram](https://github.com/Nam-Namazov/Leetcode-Swift/blob/Others/easy/Valid_Anagram/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Valid Palindrome](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/valid-palindrome/LeetcodeSwift/LeetcodeSwift/main.swift)
