@@ -21,6 +21,7 @@
 - [Detect Capital](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/detect-capital/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Diameter of Binary Tree](https://github.com/Nam-Namazov/Leetcode-Swift/blob/trees/easy/Diameter_of_binary_tree/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Delete Node in a Linked List](https://github.com/Nam-Namazov/Leetcode-Swift/blob/linked_list/easy/delete_node_in_a_linked_list/LeetcodeSwift/LeetcodeSwift/main.swift)
+- [Dublicate Zeroes](https://github.com/Nam-Namazov/Leetcode-Swift/tree/easy/dublicate-zeroes)
 - [First Bad Version](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/First_Bad_Version/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [First Unique Character in a String](https://github.com/Nam-Namazov/Leetcode-Swift/blob/Others/easy/First_unique_character_in_string/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Find Pivot Index](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/FindPivotIndex/LeetcodeSwift/LeetcodeSwift/main.swift)
