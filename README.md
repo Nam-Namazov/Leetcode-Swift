@@ -75,6 +75,7 @@
 - [Baseball Game](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/baseball-game/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Find All Numbers Disappeared in an Array](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/find-all-numbers-disappeared-in-an-array/LeetcodeSwift/LeetcodeSwift/main.swift)
 - [Shuffle the array](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/shuffle-the-array/LeetcodeSwift/LeetcodeSwift/Solution.swift)
+- [Check If Two String Arrays are Equivalent](https://github.com/Nam-Namazov/Leetcode-Swift/blob/easy/check-if-two-string-arrays-are-equivalent/LeetcodeSwift/LeetcodeSwift/Solution.swift)
 
 
 ### Medium 
